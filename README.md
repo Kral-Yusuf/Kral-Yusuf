@@ -1,30 +1,18 @@
-YouTube: https://www.youtube.com/c/TCKralYusuf
-
 DO NOT UPLOAD MY PROJECTS ON ANY WEBSITE!
 PREVIEWS ON YOUTUBE ARE ALLOWED (!!! WITH CREDITS IN THE DESCRIPTION !!!)
+
+
+YouTube: https://www.youtube.com/c/TCKralYusuf
+
 
 Projects & Reverse-Engineering for Spider-Man 2000
 
 
-CREDITS
 
-Neversoft
-
-Developers of Spider-Man & Spider-Man 2: Enter Electro
-
-Krystalgamer
-Developer of the entire Spidey-Tools
-Developer of the Custom Texture Loader
-
-T.C Kral-Yusuf
-Developer of the entire "Ultimate Summer" Project
-Developer of the Mod Menu for Spider-Man
-
-Juancho GG
-Publisher of the Spider-Man PS1 Textures
-
-Hyperchaotix
-Developer of the HD Textures for Spider-Man N64
-
-2099paco
-Ripped Textures from Spider-Man 2: Enter Electro
+• CREDITS •
+Neversoft:        Developer of Spider-Man & Spider-Man 2: Enter Electro
+krystalgamer:     Developer of Spidey-Tools
+Kral-Yusuf:       Developer of Ultimate Summer & Mod Menu
+JuanchoGG:        Publisher of PS1 Textures
+Hyperchaotix:     Developer of Remastered N64 Textures
+2099paco:         Publisher of Enter Electro Textures
