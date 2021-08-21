@@ -6,7 +6,7 @@ PREVIEWS ON YOUTUBE ARE ALLOWED (!!! WITH CREDITS IN THE DESCRIPTION !!!)
 Projects & Reverse-Engineering for Spider-Man 2000
 
 
-• CREDITS •
+CREDITS
 Neversoft
 Developers of Spider-Man & Spider-Man 2: Enter Electro
 
