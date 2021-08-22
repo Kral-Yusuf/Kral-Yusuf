@@ -1,7 +1,5 @@
-DO NOT UPLOAD MY PROJECTS ON ANY WEBSITE !!!
+Hello there,
 
-PREVIEWS ON YOUTUBE ARE ALLOWED (!!! WITH CREDITS IN THE DESCRIPTION !!!)
+I'm the developer of the Mod Menu and Ultimate Summer Project for Spider-Man 2000.
 
-YouTube: https://www.youtube.com/c/TCKralYusuf
-
-Projects & Reverse-Engineering for Spider-Man 2000
+Thank you for considering my GitHub!
